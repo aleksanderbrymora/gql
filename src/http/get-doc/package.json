@@ -1,7 +1,0 @@
-{
-  "name": "begin-app-get-doc",
-  "dependencies": {
-    "@architect/functions": "latest",
-    "@begin/data": "latest"
-  }
-}

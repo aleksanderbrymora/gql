@@ -5,6 +5,7 @@ earth-mgw
 
 @http
 post /graphql
+get /doc
 
 @tables
 data
